@@ -1,7 +1,3 @@
-Free Download Source Code "Advance Library System"
-
-FIRST Download
-
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -24,5 +20,6 @@ FIRST Download
 
 Username: admin
 Password: admin
+
 
 
